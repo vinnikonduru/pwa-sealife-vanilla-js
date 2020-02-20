@@ -1,0 +1,9 @@
+{
+    "name" : "Sea_life",
+    "short_name": "Sealife",
+    "start_url" : "index.html",
+    "display" : "standalone",
+    "background_color" : "#fdfdfd",
+    "theme_color" : "yellow",
+    "orientation" : "portrait-primary"  
+}
