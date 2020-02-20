@@ -1,15 +1,15 @@
 const container = document.querySelector(".container");
 const sealifes = [
   
-  { name: "Glitter_Fish", image: "images/sealife1.jpg" },
-  { name: "Twin_Fishes", image: "images/sealife2.jpg" },
-  { name: "Rare_Fish", image: "images/sealife3.jpg" },
-  { name: " Sword_Fish", image: "images/sealife4.jpg" },
-  { name: "Nemo_Dory", image: "images/sealife5.jpg" },
-  { name: "Stingray", image: "images/sealife6.jpg" },
+  { name: "Under water fishes", image: "images/sealife1.jpg" },
+  { name: "Twin fishes", image: "images/sealife2.jpg" },
+  { name: "Penguins", image: "images/sealife3.jpg" },
+  { name: "Polka dots fish", image: "images/sealife4.jpg" },
+  { name: "Jelly fish", image: "images/sealife5.jpg" },
+  { name: "Moon jelly fishes", image: "images/sealife6.jpg" },
   { name: "Cute_Fish", image: "images/sealife7.jpg" },
-  { name: "Aquarium", image: "images/sealife8.jpg" },
-  { name: "Fish_Aquarium", image: "images/sealife9.jpg" },
+  { name: "Mangoose", image: "images/sealife8.jpg" },
+  { name: "Flamingos", image: "images/sealife9.jpg" },
 
 ]
 
